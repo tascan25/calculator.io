@@ -82,9 +82,9 @@ body{
 
 @media screen and (max-width: 950px){
     .container{
-        width: 80vw;
+        width: 85vw;
         height: 70vh;
-        margin-left: 2.2em;
+        margin-left: 2.3em;
     }
     .box{
         width: 58px;
